@@ -246,5 +246,5 @@ fn main() {
 
     let r = compute(s.as_bytes().to_vec());
     println!("Result: {}", r);
-    println!("Expect: {}", r);
+    println!("Expect: {}", _s);
 }
